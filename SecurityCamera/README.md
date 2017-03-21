@@ -7,10 +7,12 @@
 ## Habilitar la cámara
 
 ```
-sudo raspi-config
-Enable camera   
+sudo raspi-config  
 ```
 
+https://cloud.githubusercontent.com/assets/11192915/24167439/0c8dbb14-0e77-11e7-9e69-7bf814e1769e.png
+
+https://cloud.githubusercontent.com/assets/11192915/24167445/117b3cf0-0e77-11e7-8711-5ad203c3ac85.png
 
 ## Depencencias
 
