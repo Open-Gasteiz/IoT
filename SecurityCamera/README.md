@@ -37,7 +37,7 @@ stream_quality 50
 stream_motion off
 ```
 
-### Acticar el demonio
+### Activar el demonio
 
 sudo vim /etc/default/motion
 
