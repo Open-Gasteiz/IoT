@@ -120,3 +120,8 @@ http://<ip/nombre>:8765
 ### Contraseña
 
 ![image](https://cloud.githubusercontent.com/assets/11192915/24216707/82551ede-0f3d-11e7-80bc-bcd0e81a3998.png)
+
+```
+user=admin
+pass=" "
+
