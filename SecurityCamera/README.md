@@ -75,6 +75,14 @@ sudo raspi-config
 
 ![image](https://cloud.githubusercontent.com/assets/11192915/24167445/117b3cf0-0e77-11e7-8711-5ad203c3ac85.png)
 
+### Cámara integrada
+
+Cargar el módulo del kernel y hacerlo persistente:
+
+```
+sudo bash -c 'echo "bcm2835-v4l2" >> /etc/modules'
+```
+
 ## Depencencias
 
 ```
@@ -120,3 +128,8 @@ http://<ip/nombre>:8765
 ### Contraseña
 
 ![image](https://cloud.githubusercontent.com/assets/11192915/24216707/82551ede-0f3d-11e7-80bc-bcd0e81a3998.png)
+
+```
+user=admin
+pass=" "
+
